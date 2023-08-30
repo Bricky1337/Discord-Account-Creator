@@ -4,19 +4,31 @@ A simple and fast program to create unflagged discord accounts/tokens automatica
 
 # 🔥 Features
 
--Built-in Captcha Solver
--Slick UI
--Decent Speeds
--Simple & Easy To Setup
--Creates UNLOCKED ACCOUNTS
--Joins server even if they are locked. (member boosting setting)
--Undetected Client
--Ultra HIGH Proxy Usage
--OPTION: Enable DEV Mode
--OPTION: Add BIO
--OPTION: Add PFP
--OPTION: Add Random Hypesquad
--OPTION: Join Server
+ -Built-in Captcha Solver
+
+ -Slick UI
+
+ -Decent Speeds
+
+ -Simple & Easy To Setup
+
+ -Creates UNLOCKED ACCOUNTS
+
+ -Joins server even if they are locked. (member boosting setting)
+
+ -Undetected Client
+
+ -Ultra HIGH Proxy Usage
+
+ -OPTION: Enable DEV Mode
+
+ -OPTION: Add BIO
+
+ -OPTION: Add PFP
+
+ -OPTION: Add Random Hypesquad
+
+ -OPTION: Join Server
 
 # ❗ Disclaimers
 
